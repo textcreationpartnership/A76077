@@ -1,0 +1,1762 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Glad tydings of ioy, or A prognostication of peace. Wherein is contained, memorable accidents [brace] past, present, and to come. [brace] proved produced and manifested [brace] by [brace] Scripture, time, and Englands experience. / Collected by J. B. Astro.</title>
+            <author>J. B., Astro.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76077</idno>
+            <idno type="STC">Wing B104</idno>
+            <idno type="STC">Thomason E92_23</idno>
+            <idno type="STC">ESTC R11846</idno>
+            <idno type="EEBO-CITATION">99859151</idno>
+            <idno type="PROQUEST">99859151</idno>
+            <idno type="VID">155761</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155761)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E92[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glad tydings of ioy, or A prognostication of peace. Wherein is contained, memorable accidents [brace] past, present, and to come. [brace] proved produced and manifested [brace] by [brace] Scripture, time, and Englands experience. / Collected by J. B. Astro.</title>
+                  <author>J. B., Astro.</author>
+                  <author>Booker, John, 1603-1667, attributed name.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the first yeare of Jubilee, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A royalist pamphlet, "J. B. Astro" is probably a pseudonym intended to suggest the authorship of John Booker, Parliamentarian pamphleteer and astrologer.</note>
+                  <note>Annotation on Thomason copy: "March 10. 1642"; the 3 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peace --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155761:1" rendition="simple:additions"/>
+            <p>Glad Tydings of Ioy, OR A PROGNOSTICATION OF PEACE.</p>
+            <p>Wherein is contained, Memorable Accidents</p>
+            <p>Paſt,Preſent, And to come.</p>
+            <p>proved, produced, and manifeſted</p>
+            <p>by</p>
+            <p>Scripture, Time,<hi>Englands</hi> experience.</p>
+            <p>Collected by <hi>J. B.</hi> Aſtro.</p>
+            <p>Printed in the firſt yeare of Jubilee, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="months_of_the_year">
+            <pb facs="tcp:155761:2"/>
+            <div n="January" type="month">
+               <head>Ianuary,</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>The firſt day of this Moneth Chriſt was circumciſed, <hi>Luke</hi> 2.21. The Tops of the moun<g ref="char:EOLhyphen"/>taines appeared unto Noah, <hi>Ge.</hi> 8.5. The Iſraelits put their away wives, <hi>Ezra,</hi> 10.16.</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>The fift of this Moneth word was brought unto Ezechiel the Prophet, that the Citie of Je<g ref="char:EOLhyphen"/>ruſalem was ſmitten. <hi>Eze.</hi> 33.</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>The ſixt of this moneth Chriſt was worſhiped of the wiſe me <hi>Mat.</hi> 2.1. <hi>&amp;c.</hi> baptized, <hi>Mat.</hi> 3.15. as teſtifieth <hi>Epiphanius.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>The tenth of this moneth <hi>Na<g ref="char:EOLhyphen"/>buchadnezar,</hi> King of Babel, moved thereunto by the rebeli<g ref="char:EOLhyphen"/>on of <hi>Zedechiah,</hi> beſieged Je<g ref="char:EOLhyphen"/>ruſalem moſt ſierely, as may appeare, 2. <hi>Kings,</hi> 25. <hi>&amp;c. Ier.</hi> 52.4. Alſo Ezechiel was wil<g ref="char:EOLhyphen"/>led to utter his parable, <hi>Ezec.</hi> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <hi>&amp;c.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>
+                           <hi>Paul</hi> called, and converted, the 25. of this moneth. <hi>Acts</hi> 9.3.</cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>31</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <label>Obſervations.</label>
+               </p>
+               <p>As the rebellion of <hi>Zedechiah</hi> moved <hi>Nabuchadnezar</hi> to riſe up in Armes and to beſiedge Je<g ref="char:EOLhyphen"/>ruſalem, ſo our rebelling againſt God and his Lawes has been the cauſe of theſe preſent warres, let the example of <hi>Paul</hi> ſerve as a motive to induce us to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>av<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our rebell<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous courſes, and then doubtleſſe the King will return in peace, &amp; crown u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with a wreath of glory.</p>
+            </div>
+            <div n="February" type="month">
+               <head>February.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>The 1. of this moneth Moſes re<g ref="char:EOLhyphen"/>peated the Law unto the chil<g ref="char:EOLhyphen"/>dren of Jſrael. <hi>Deut.</hi> 1.3.</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>The 2. of this moneth, our Saviour was preſented to the Lord, and Mary purified, <hi>Luke.</hi> 2.22.</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>The 9. of this moneth Noah 40. dayes after he had ſeen the tops of the mountaines, ſent out of the Arke a Raven and after<g ref="char:EOLhyphen"/>ward a Dove, which returned, <hi>Gen.</hi> 8.6. <hi>&amp;c.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>The 15. of this moneth, the Jewes ſpend merily together, for that the ſpring of the yeere doth enter then as they thinke.</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>The 16. of this moneth <hi>Noah</hi> the ſecond time ſent out a Dove which returned with an Olive branch in her Bill. <hi>Gen,</hi> 8.10.</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <label>Obſervations.</label>
+               </p>
+               <p>This preſent time doth neere<g ref="char:EOLhyphen"/>ly reſemble that time, the world being involved, (though not with a deluge of water) yet with an inundation of Blood, for Warre is the onely Theame that is diſcourſt of, upon the face of <hi>Europe,</hi> eſpecially here in England, this land like <hi>Noahs</hi> Arke hath long ſoated on the troubled waters of diviſion, a Dove is ſent forth and (if hereſie and hipochriſie hinder not) doubtleſſe this Dove will re<g ref="char:EOLhyphen"/>turn with an Olive Branch, and the King ſhall ſpeak Peace to his People.</p>
+            </div>
+            <div n="March" type="month">
+               <pb facs="tcp:155761:2"/>
+               <head>March.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>The Temple of Jeruſalem was finiſhed the third day of this moneth. <hi>Ezra.</hi> 6.15.</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>The 10. of this moneth Chriſt was advertiſed that Lazarus was ſicke, <hi>Ioh.</hi> 11.3.</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>
+                           <p>The thirteenth of this moneth the Jewes under Aſhueroth were commanded to be put to death, <hi>Eſter.</hi> 3.13.</p>
+                           <p>On the ſame day the next yeare the Jewes ſolemnized for their deliverance, <hi>Eſter.</hi> 8.17.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>The ſixtenth of this moneth Lazarus was rayſed from the dead. <hi>Ioh.</hi> eleventh forty three.</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>31</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <label>Obſervations</label>
+               </p>
+               <p>It is aparent that the hearts of Kings are ordered and directed by God, as may appeare by <hi>Aſhueroth</hi> from whence J inferre, that though the <hi>Hamans</hi> of this world doe cauſe the Potentates to threatten deſtruc<g ref="char:EOLhyphen"/>tion to our religious <hi>Mordecaies,</hi> at laſt they ſhall be catcht in their own ſna<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, for God will protect all his ſervants in the time of trouble.</p>
+            </div>
+            <div n="April" type="month">
+               <head>April.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>The fiſt of this moneth <hi>Neha</hi> uncovered the. Arke and ſaw earth, <hi>Gen.</hi> 8.13.</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>The tenth of this mon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>th the children of Iſraell paſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d tho row the River Iordan on dry foot, <hi>Ioſu.</hi> 4.19.</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>The fourtenth of this moneth the Iſaralrtes departed out of Egipt, <hi>Num.</hi> 23.3.</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>The eighteenth of this moneth the children of Iſrael walked on dry land through the red Sea.</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <label>Obſervations</label>
+               </p>
+               <p>The Religious Iſraelites of this land are at this day in the ſame ſtrait an Army of deſtroyers dayly endeavour to deſtroy them, and on the other ſide they are invaded with the red Sea of diviſion, ſuperſtition, and oppſi<g ref="char:EOLhyphen"/>tion, yet let them not murmure a<g ref="char:EOLhyphen"/>gainſt God, for in his good time he will deliver them.</p>
+            </div>
+            <div n="May" type="month">
+               <pb facs="tcp:155761:3"/>
+               <head>May.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>The firſt of this Moneth Mo<g ref="char:EOLhyphen"/>ſes was commanded to number the children of Iſrael. <hi>Numb.</hi> 1.1. <hi>&amp;c.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>The 5. of this Moneth Chriſt is thought to have aſcended up into heaven, <hi>Mar.</hi> 16.19. <hi>Luk</hi> 24.51. <hi>Act.</hi> 19.</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>They which could not keep the Paſſeover at the day appoin<g ref="char:EOLhyphen"/>ted by the Lord, were willed to celebrate the ſame the 14 of this Moneth, Nu. 9. ver. 10.11. So did the Iſraelites at the com<g ref="char:EOLhyphen"/>mandement of King Hezekiah, 2. Chro. 30.15.</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>The 16. day, Manna rayned from Heaven, Exod. 16.14</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell>The 22. fire from Heaven conſumed ſuch as murmured a<g ref="char:EOLhyphen"/>gainſt the Lord. Num. 11.1.</cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell>The 23. the Iſraelites with great joy triumphingly entered into the Caſtle of Jeruſalem, 1. Mac. 13.51.</cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell>Noah, the 27. The waters being dried up, came forth of the Ark, Gen. 8.14. &amp;c.</cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>31</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <label>Obſervation.</label>
+               </p>
+               <p>Let the murmurers of this Citie make this their preſident, and take heed that they murmure no more a<g ref="char:EOLhyphen"/>gainſt the Judgments of God, nor the means which God hath ordained to preſerve his people from the pre<g ref="char:EOLhyphen"/>ſent judgments, leaſt the Lord cauſe the clouds to raigne fire from hea<g ref="char:EOLhyphen"/>ven, and ſuffer the the ſword of enemy to prevaile over them, for the Lord has promiſed to deliver his children, and though he deffer his coming yet in the end he will come, and take Vengeance againſt thoſe that murmure againſt him; and revile his Saints, and ſuch as proffeſſe his name, here on the face of the earth, therefore waite patien<g ref="char:EOLhyphen"/>ly, and the Lord will ſurely defend you from the power of thoſe that ſeek to deſtroy you.</p>
+            </div>
+            <div n="June" type="month">
+               <head>Iune.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>The firſt coming of the chil<g ref="char:EOLhyphen"/>dren of Iſrael unto mount Sinia was the firſt of this moneth, where they abode eleven mo<g ref="char:EOLhyphen"/>neths and 20 dayes, in which time, all thoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> things were done recorded in Exod Chap 19 1.</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>The 6. of this moneth Allex<g ref="char:EOLhyphen"/>ander that mighty Monarch of the world was borne, of whom Daniel doth prophecie Dan. 11.3. Alſo on this day that famous Temple of Diana in Epheſus numbred among the ſeven wonders of the world was ſet on fire by Heroſtratus. The Jewes likewiſe kept their feaſt of Pentecoſt on this day.</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell>The 23. of this month the firſt Edict came out for the ſafety of Gods people, the J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>wes againſt Ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, and the reſt of their enemies. Eſt. 89.</cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="July" type="month">
+               <pb facs="tcp:155761:4"/>
+               <head>Iuly.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>The firſt of this moneth Ezekiell ſaw his viſion E<g ref="char:EOLhyphen"/>zech 11.</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>The 6 of this moneth the Capitoll of Rome counted one of the 7. wonders of the world was burned, and the mirror of Chriſtian Princes, king Edward the ſix died 1653.</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>The 9. of this moneth Je<g ref="char:EOLhyphen"/>ruſalem after it had been a long time beſieged by N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>buchadnezer was taken Jer. 39.2.</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>The 12 of this month, Iu<g ref="char:EOLhyphen"/>lius Caeſar, the firſt Roman Emperor was borne, of him is this moneth called Iuly.</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>The 18 of this mouth, the Egyptians begin their yeer, Plin. lib. 8. cap. 47.</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>Upon the 25. of this mo<g ref="char:EOLhyphen"/>nteh King Iames was crow<g ref="char:EOLhyphen"/>ned king of England 1603.</cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>31</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="August" type="month">
+               <head>Auguſt.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>The firſt of this moneth, Aaron, 40. yeers after the children of Iſrael were come out of Egypt, died on mount Hor, Num. 33.38. Alſo on this day, Ezra, with his companie, came out of Babel unto Jeruſa<g ref="char:EOLhyphen"/>lem, Ezra. 7.9.</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>The 7. of this month, Nebuchadnezzar burnt the Houſe of the Lord, and all Jeruſalem, 2 Kings 25.8, 9.</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>The 10. of this moneth, ſome think Jeruſalem to have been burnt by the Ba<g ref="char:EOLhyphen"/>bylonians, Jere. 52.12. Jo<g ref="char:EOLhyphen"/>ſephas) lib. 5. cap. 26) and ſaid it was burned after<g ref="char:EOLhyphen"/>ward by the Romanes the ſame day. Therefore do the Iews on this day obſerve a moſt ſtrait Faſt, and go barefooted; and ſitting on the ground, reade twice over the Lamentations of Ieremie.</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>31</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="September" type="month">
+               <pb facs="tcp:155761:3"/>
+               <head>September.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>The firſt of this moneth <hi>Hag<g ref="char:EOLhyphen"/>gal</hi> the Prophet began to pro<g ref="char:EOLhyphen"/>phecy, <hi>Hag.</hi> 1.1.</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>The 6. of this moneth <hi>Eze<g ref="char:EOLhyphen"/>chiel</hi> ſaw another viſion. <hi>Eze.</hi> 8.1.</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>The 7. of this month our no<g ref="char:EOLhyphen"/>ble Queen <hi>Elizabeth</hi> was born, at <hi>Greenwich, Anno</hi> 1533.</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>The 8. of this moneth <hi>Anno</hi> 7. <hi>Ieruſalem</hi> was deſtroyed with fire and Sword, by <hi>Titus</hi> the Emperour, <hi>Ioſephus, lib.</hi> 7. <hi>cap.</hi> 29.</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>The 25. of this moneth <hi>Nehe<g ref="char:EOLhyphen"/>miah</hi> finiſhed the wals of <hi>Ieru<g ref="char:EOLhyphen"/>ſalem, Nehem.</hi> 6.15.</cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="October" type="month">
+               <head>October.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>The firſt of this moneth Ie<g ref="char:EOLhyphen"/>ruſalem, after it had been poſ<g ref="char:EOLhyphen"/>ſed of Chriſtian Princes 88. yeares, through mortall diſſen<g ref="char:EOLhyphen"/>tion, came into the hands of the <hi>Sarazens, Anno,</hi> 1187.</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>The tenth of this moneth the the feaſt of reconciliation was kept.</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>The fifteenth day of this mo<g ref="char:EOLhyphen"/>neth the Jewes obſerved the feaſt of Tabernacles 7. dayes together, in memory of the Lords protecting them in the Deſart.</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>31</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <label>Obſervations</label>
+               </p>
+               <p>If mortall diſſention was the cauſe of Jeruſalems deſtruction, (as is ap<g ref="char:EOLhyphen"/>parent by the teſtimony of the moſt ancient writers) then let <hi>England</hi> and in particular the City of <hi>London,</hi> beware of diviſion, for if you do not in time g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve a period to theſe deſtructive diſſentions, and joyn in unity with thie Servants of God, and aſſiſt them againſt the common Enemie, I dare boldy pronounce that this enſuing yeare will produce the Sword, Plague, Peſtilence, and Famine, with the deſtruction of this glorious City.</p>
+            </div>
+            <div n="November" type="month">
+               <pb facs="tcp:155761:4"/>
+               <head>November.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>The tenth of this moneth <hi>An.</hi> 1483. <hi>D. Martin Luther</hi> was born in Iſtebia.</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>The fifteenth of this moneth was made a new holiday by Jeroboam, without the com<g ref="char:EOLhyphen"/>mandement of God, whereup<g ref="char:EOLhyphen"/>on he committed moſt wicked Jdolatry in Dan and Bethell, but he remained not long un<g ref="char:EOLhyphen"/>puniſhed, nor his People un<g ref="char:EOLhyphen"/>plagued for the ſame, as may appeare, 1. <hi>Kings</hi> 12. <hi>ver.</hi> 32.33. 1. <hi>King</hi> 13.1.2. <hi>&amp;c.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>Queen Elizabeth began happily to raigne for the advancement of the Goſpell of our Saviour Chriſt, the 17. of this moneth.</cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>The 18. of this moneth Titus the Emperour moſt cruelly ex<g ref="char:EOLhyphen"/>ecuted to death a great number of the Jewes, <hi>Ioſe ph lib.</hi> 7. <hi>cap.</hi> 10.</cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="December" type="month">
+               <head>December.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>The 15. of this moneth Anti<g ref="char:EOLhyphen"/>ochus placed an abominable I<g ref="char:EOLhyphen"/>doll upon the Altar of the Lord, 1. <hi>Mac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>.</hi> 1.57.</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell>The twentieth of this moneth Eſdras exhorted the Jſaralites to put away their ſtrange wives 1. <hi>Eſdras</hi> 9. <hi>ver.</hi> 5.6.</cell>
+                     </row>
+                     <row>
+                        <cell>21</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>25</cell>
+                        <cell>
+                           <p>The 25. of this moneth our Saviour Chriſt was borne of the Virgin, the yeare after the worlds Creation 4018.</p>
+                           <p>On which day alſo Antiochus Epiphanes entered into Jeruſa<g ref="char:EOLhyphen"/>lem with a mighty Army, and ſpoiled the ſame, <hi>Ioſeph, lib.</hi> 12.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>26</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>27</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell>The 28. of this moneth He rod cauſed the poore Innocent to be murthered, thinking there by to have ſlain Chriſt.</cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>31</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <label>Obſervations.</label>
+               </p>
+               <p>The world may be divided into three times every time conſiſting of about two thouſand yeares, two of which times were ended at the come<g ref="char:EOLhyphen"/>ing of Chriſt in the fleſh, ſo that by all computations it is apparent that the third time is almoſt accompliſhed ſince the comming of the Meſsias at the end of which is expected Chriſts ſecond comming in glory, nor is it without good ground that ſuch conjectures are rayſed, for if you go ac<g ref="char:EOLhyphen"/>cording to the words of <hi>David,</hi> where he ſayes that a thouſand yeears are
+<pb facs="tcp:155761:5"/> but as a day in the ſight of the Lord, which wordes are conceived to be <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Propheticall diſcription of the neer reſemblance between thoſe ſix dayes wherein God made the world, and thoſe ſix thouſand yeares ſince the the Creation, wherein man was ordained to labour, and runne out a care<g ref="char:EOLhyphen"/>full pilgimage, which being expired, our eternall Saboth is at hand, where we ſhall reſt from our labour, but to confirme it more, looke upon the words of Chriſt <hi>Luke</hi> 21. <hi>ver.</hi> 8. and ſo forward, where he tels his Ap<g ref="char:EOLhyphen"/>poſtles that they ſhould know the time of his comming againe in glory by this ſigne, that there ſhould be falſe Prophets, Warres and Seditions, Earthquakes, and Signes from heaven, all which are acompliſhed, falſe Prophets we have round about us, Warres and ſeditions we are too ſenci<g ref="char:EOLhyphen"/>ble of, Signes from Heaven very many, eſpecially ſome very lately in <hi>Ger<g ref="char:EOLhyphen"/>many</hi> nere upon the time of the great conjunction of <hi>Saturne</hi> and <hi>Iupiter,</hi> for it is is certified by ſeverall Letters ro Perſons of Great Eminencie, that at <hi>Lipſwicke,</hi> on the 14, of February laſt, it rained Fire from Heaven and there was ſuch thundering and flaſhes of Lightning, that the inhabitants thought the day of Judgement had been come, after which was heard plea<g ref="char:EOLhyphen"/>ſant muſicke in the Ayre, to the wonder and amazement of all the Coun<g ref="char:EOLhyphen"/>try, though this relation may ſeeme contrary to reaſon, yet conclude not raſhly, for Chriſt hath foretold that ſuch things muſt come to paſſe, and the Scriptures muſt be fulfilled, theſe things I recommend unto thy conſi<g ref="char:EOLhyphen"/>deration o man, to the end that thou maieſt prepare thy ſelfe to meet the Bridegroome, for aſſure thy ſelfe that the dayes to come are few and evill, therefore let the Regenerate man rejoyce, for the time of tribulation is al<g ref="char:EOLhyphen"/>moſt accompliſhed and the dayes of peace are at hand.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
